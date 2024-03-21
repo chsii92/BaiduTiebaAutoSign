@@ -14,7 +14,7 @@
 2. 设置好环境变量后点击你的仓库上方的 `Actions` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。
 
 3. 任意发起一次commit，可以参考下图流程修改readme文件。1
-
+ 
 - 打开`README.md`，点击修改按钮
 
 ![修改README](https://user-images.githubusercontent.com/30728105/165702570-e07bdd1d-752e-4d30-9994-af850f84ee32.png)
